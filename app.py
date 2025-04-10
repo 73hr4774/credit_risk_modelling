@@ -3,9 +3,9 @@ import numpy as np
 import joblib
 
 # Load model and encoders
-model = joblib.load('model.joblib')
-le_employment = joblib.load('employment_encoder.joblib')
-le_marital = joblib.load('marital_encoder.joblib')
+model = joblib.load('artifacts/model.joblib')
+le_employment = joblib.load('artifacts/employment_encoder.joblib')
+le_marital = joblib.load('artifacts/marital_encoder.joblib')
 
 st.title(" Credit Risk Prediction App")
 st.write("Enter applicant information below:")
