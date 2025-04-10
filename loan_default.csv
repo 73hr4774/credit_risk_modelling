@@ -1,0 +1,11 @@
+Age,Income,Loan_Amount,Credit_Score,Employment_Status,Marital_Status,Defaulted
+25,30000,10000,650,Employed,Single,0
+40,80000,20000,720,Employed,Married,0
+35,60000,15000,680,Self-Employed,Single,1
+29,45000,12000,640,Employed,Married,0
+50,90000,25000,730,Employed,Married,0
+28,32000,11000,660,Unemployed,Single,1
+32,40000,13000,670,Employed,Married,0
+45,85000,23000,710,Self-Employed,Single,1
+41,70000,18000,690,Employed,Married,0
+38,72000,19000,700,Employed,Single,0
